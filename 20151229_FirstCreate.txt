@@ -5,4 +5,7 @@ Create gitHub
 ——关键在于学习，不断练习，看书，交流升华。
 2.learn English
 
+3.
+(1)android-studio: use VCS:git/github
+
 
